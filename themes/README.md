@@ -65,6 +65,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `panda` ![panda][panda_repo] | `noctis_minimus` ![noctis_minimus][noctis_minimus_repo] | `cobalt2` ![cobalt2][cobalt2_repo] |
 | `swift` ![swift][swift_repo] | `aura` ![aura][aura_repo] | `apprentice` ![apprentice][apprentice_repo] |
 | `moltack` ![moltack][moltack_repo] | `codeSTACKr` ![codeSTACKr][codeSTACKr_repo] | `rose_pine` ![rose_pine][rose_pine_repo] |
+| `bjossi` ![bjossi][bjossi] |
 | [Add your theme][add-theme] | | |
 
 
