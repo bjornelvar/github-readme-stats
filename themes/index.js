@@ -381,6 +381,12 @@ export const themes = {
     border_color: "e9d8d4",
     bg_color: "e9d8d4",
   },
+  bjossi: {
+    title_color: "24292e",
+    icon_color: "24292e",
+    text_color: "24292e",
+    bg_color: "262626",
+  },
 };
 
 export default themes;

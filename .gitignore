@@ -10,3 +10,5 @@ vercel_token
 # IDE
 .vscode
 *.code-workspace
+.github/.DS_Store
+.DS_Store

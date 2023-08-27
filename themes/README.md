@@ -36,6 +36,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `panda` ![panda][panda] | `noctis_minimus` ![noctis_minimus][noctis_minimus] | `cobalt2` ![cobalt2][cobalt2] |
 | `swift` ![swift][swift] | `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] |
 | `moltack` ![moltack][moltack] | `codeSTACKr` ![codeSTACKr][codeSTACKr] | `rose_pine` ![rose_pine][rose_pine] |
+| `bjossi` ![bjossi][bjossi] |
 | [Add your theme][add-theme] | | |
 
 ## Repo Card
